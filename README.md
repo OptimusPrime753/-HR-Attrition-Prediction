@@ -58,8 +58,9 @@ The goal is to identify employees at risk of leaving and understand which featur
 
 - Examined distributions of numerical features (satisfaction, hours, projects)
 - Analyzed attrition trends across salary levels and departments
-- Created countplots and histograms to visualize feature relationships
+- Created countplots and histograms to visualise feature relationships
 - Observed that **low satisfaction** and **long working hours** were strong predictors of attrition
+- Most of the employees who quit the company were from the sales department.
 
 ---
 
